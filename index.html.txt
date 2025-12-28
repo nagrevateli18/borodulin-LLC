@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BORODULIN LLC – Business & Event Consulting</title>
+    <meta name="description" content="BORODULIN LLC provides business and event consulting services for small and medium-sized companies.">
+</head>
+<body style="font-family: Arial, sans-serif; max-width: 900px; margin: auto; padding: 20px;">
+
+<h1>BORODULIN LLC</h1>
+<h2>Business & Event Consulting Services</h2>
+
+<h3>About Us</h3>
+<p>
+BORODULIN LLC provides professional business consulting services with a primary focus on event-based businesses, as well as general business consulting for small and medium-sized companies.
+</p>
+<p>
+We help businesses improve operational efficiency, optimize workflows, and develop clear strategies for sustainable growth. All services are provided remotely and customized to each client’s specific needs.
+</p>
+
+<h3>Services</h3>
+<ul>
+    <li>Consulting for event-based businesses</li>
+    <li>Business strategy and growth planning</li>
+    <li>Operational efficiency and process optimization</li>
+    <li>Business analysis and advisory services</li>
+    <li>Project-based or hourly consulting</li>
+</ul>
+
+<h3>Contact</h3>
+<p>Email: <a href="mailto:ivanbor11111@gmail.com">ivanbor11111@gmail.com</a></p>
+<p>Location: Denver, CO, United States</p>
+
+<h3>Privacy Policy</h3>
+<p>
+BORODULIN LLC respects your privacy. We only collect personal information voluntarily provided by clients for communication and service delivery purposes. We do not sell or share personal information with third parties except as required by law.
+</p>
+
+<h3>Terms of Service</h3>
+<p>
+BORODULIN LLC provides consulting and advisory services. All services are offered under individual agreements with clients. No guarantees of specific business results are provided. Payments are non-refundable once services have been rendered.
+</p>
+
+<hr>
+<p>© BORODULIN LLC. All rights reserved.</p>
+
+</body>
+</html>
